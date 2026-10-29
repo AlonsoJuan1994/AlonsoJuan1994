@@ -8,7 +8,7 @@ Me interesa especialmente la ciberseguridad, la administración de sistemas, las
 
 Mi experiencia profesional incluye la coordinación de equipos técnicos, planificación de tareas, resolución de problemas y gestión operativa. Busco trasladar esas habilidades al sector tecnológico y seguir desarrollándome profesionalmente.
 
-##🛡️ Áreas de conocimiento
+## 🛡️ Áreas de conocimiento
 
 - **Ciberseguridad:** análisis de vulnerabilidades, respuesta a incidentes, investigación de evidencias y fundamentos de pentesting.
 - **Redes:** TCP/IP, direccionamiento IPv4, VLAN, NAT, ACL y segmentación de redes.

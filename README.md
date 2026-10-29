@@ -77,9 +77,3 @@ Me interesa participar en equipos donde pueda aplicar mis conocimientos, adquiri
 📍 **Montevideo, Uruguay**
 
 **Siempre aprendiendo, practicando y buscando nuevos desafíos.**
-
-Me interesa participar en equipos donde pueda aplicar mis conocimientos, adquirir experiencia práctica y contribuir a mejorar la seguridad y el funcionamiento de los sistemas.
-
-📍 Montevideo, Uruguay
-
-Siempre aprendiendo, practicando y buscando nuevos desafíos.

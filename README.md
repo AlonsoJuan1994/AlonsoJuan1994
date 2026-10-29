@@ -34,31 +34,31 @@ Investigación académica de un incidente simulado en Ubuntu 20.04.6. Análisis 
 
 Diseño de una red segmentada con LAN, DMZ y red externa utilizando Cisco Packet Tracer. Implementación de NAT estático, ACL y pruebas de conectividad y acceso.
 
-Ver proyecto
+[Ver proyecto](https://github.com/AlonsoJuan1994/dmz-lab)
 
 🔐 Data Loss Prevention — DLP
 
 Proyecto académico sobre políticas de prevención de pérdida de datos, clasificación de información, control de accesos y protección de información sensible.
 
-Ver proyecto
+[Ver proyecto](https://github.com/AlonsoJuan1994/data-loss-prevention-dlp-project)
 
 🧪 Pentesting — Vulnerabilidades y mitigación
 
 Evaluación de seguridad en un entorno de laboratorio controlado, con documentación de vulnerabilidades y propuestas de prevención y mitigación.
 
-Ver proyecto
+[Ver proyecto](https://github.com/AlonsoJuan1994/pentesting-report-prevention-proposal-project)
 
 🚨 Ransomware — Respuesta a incidentes basada en NIST
 
 Elaboración de un plan académico de respuesta ante ransomware, abordando preparación, detección, contención, recuperación y actividades posteriores al incidente.
 
-Ver proyecto
+[Ver proyecto](https://github.com/AlonsoJuan1994/Plan-de-respuesta-a-incidentes-de-ransomware-basado-en-NIST)
 
 🐧 Dirty COW — Seguridad Linux
 
 Práctica académica relacionada con CVE-2016-5195, escalamiento local de privilegios y seguridad del kernel de Linux.
 
-Ver proyecto
+[Ver proyecto](https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow)
 
 🎓 Formación
 

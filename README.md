@@ -28,7 +28,7 @@ En desarrollo: Python, automatización e inteligencia artificial aplicada a la c
 
 Investigación académica de un incidente simulado en Ubuntu 20.04.6. Análisis de procesos, registros, conexiones y mecanismos de persistencia. Identificación de ocho hallazgos y elaboración de un informe técnico.
 
-Ver proyecto
+[Ver proyecto](https://github.com/AlonsoJuan1994/Final-project-Live-Incident-Response)
 
 🌐 DMZ Lab — Seguridad de redes
 
